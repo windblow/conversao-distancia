@@ -2,7 +2,9 @@
 
 Projeto de conversão de aplicação web desenvolvida em Python para 
 imagem de container Python com gunicorn rodando a aplicação na
-porta 5000
+porta 5000.
+
+Versão 2.0 - Incluído manifesto de deployment da aplicação em clusters Kubernetes
 
 A imagem está disponível também no Dockerhub com o nome
 [rpsavastano/conversao-distancia](https://hub.docker.com/repository/docker/rpsavastano/conversao-distancia/general)
